@@ -39,6 +39,41 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Everis Spain",
+          "image": {
+            "alt": "everis.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/7f31f1d9-5595-4475-b99c-55ca5e4f72d2_everis.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador .NET",
+            "startDate": "2011-10-01",
+            "finishDate": "2012-02-01",
+            "challenges": [
+              {
+                "description": "Desarrollo e implantación de un proceso de renovación de pólizas de seguros a través de herramientas Microsoft (Biz Talk, WCF, desarrollo .NET) en el proyecto PES REALE Seguros Generales"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "BizTalk",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
