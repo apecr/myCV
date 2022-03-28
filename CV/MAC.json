@@ -77,6 +77,37 @@
           "name": "Everis Spain",
           "image": {
             "alt": "everis.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/09517a31-0e2a-4e01-9cdd-81a6e2092a3f_everis.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista .NET",
+            "startDate": "2012-09-01",
+            "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "Analista del Activo de Seguros Generales principal de la empresa. Desarrollo de un tarificador online de pólizas de seguros generales."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Everis Spain",
+          "image": {
+            "alt": "everis.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4b910472-668f-447e-8c91-7f7862c3b667_everis.jpeg"
           }
         },
