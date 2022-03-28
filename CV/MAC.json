@@ -188,8 +188,8 @@
         "roles": [
           {
             "name": "Arquitecto Junior Java",
-            "startDate": "2014-03-01",
-            "finishDate": "2012-02-01",
+            "startDate": "2009-03-01",
+            "finishDate": "2016-02-01",
             "challenges": [
               {
                 "description": "Arquitecto Junior en el departamento de QA (Quality and Architecture) de la empresa Aegon. Responsable de la arquitectura Java de la compañía, de la implantación de Integración Continua (administrador de Jenkins 1.594, Nexus y Sonarqube 4.5.1), del manejo del Oracle Service Bus de cara a implantar la arquitectura SOA y de las migraciones a maven de todos los proyectos Java. Responsable de la arquitectura de los portales Java desarrollador para Liferay. "
