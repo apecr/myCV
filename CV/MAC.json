@@ -176,6 +176,65 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Aegon",
+          "image": {
+            "alt": "aegon.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/2619b54a-f846-42d7-96d1-2affe2e8c9a8_aegon.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto Junior Java",
+            "startDate": "2014-03-01",
+            "finishDate": "2012-02-01",
+            "challenges": [
+              {
+                "description": "Arquitecto Junior en el departamento de QA (Quality and Architecture) de la empresa Aegon. Responsable de la arquitectura Java de la compañía, de la implantación de Integración Continua (administrador de Jenkins 1.594, Nexus y Sonarqube 4.5.1), del manejo del Oracle Service Bus de cara a implantar la arquitectura SOA y de las migraciones a maven de todos los proyectos Java. Responsable de la arquitectura de los portales Java desarrollador para Liferay. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Nexus",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SOA",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
