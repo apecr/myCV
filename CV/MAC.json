@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto Pelayo",
+      "surnames": "Eyo Castro-Rial",
+      "title": "Ingeniero de Software en Sngular Spain",
+      "description": "Soy un apasionado de la tecnología. Me encanta programar en diferentes lenguajes (sobre todo en Node.js siedo lo más Functional posible además). Trabajo como Ingeniero de Software en Sngular en un departamento de Google Cloud Platform para BBVA. Entre mis valores están todos aquellos derivados del respeto, la solidaridad y el generar valor en todo aquello que me involucre. Desde mi trabajo (Kent Beck me ayuda mucho con esto) a mi vida personal. Es importante que las dos cosas estén balanceadas y que me sienta cómodo siendo yo mismo trabajando. Tengo una hija y una mujer excepcionales, soy de Pontevedra, teletrabajo más feliz que una perdiz pero soy el que más hecha de menos el café de la oficina o la sobremesa del día que comíamos fuera. Ojalá eso quede cerquita ya de repetirse",
+      "avatar": {
+        "alt": "avatar-aeyo.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16eb980e-2bbd-4441-8cba-3f2278761bf8_avatar-aeyo.jpeg"
+      },
+      "location": {
+        "notes": "Pontevedra, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/apecr"
+      },
+      {
+        "type": "other",
+        "URL": "https://gitlab.com/apecr"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/"
+        }
+      ]
+    }
+  }
+}
