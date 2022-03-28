@@ -403,6 +403,25 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
+        "startDate": "2004-09-01",
+        "finishDate": "2003-09-01",
+        "institution": {
+          "name": "Escuela de Ingenieros de Telecomunicación, Universidad de Vigo",
+          "description": "Ingeniero de Telecomunicaciones por la Universidad de Vigo",
+          "image": {
+            "alt": "logo_white.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/8511419e-6c93-40a8-90af-fbedb4c1627d_logo_white.svg"
+          }
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
