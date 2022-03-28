@@ -371,6 +371,35 @@
         "tags": [
           "Clean Code"
         ]
+      },
+      {
+        "details": {
+          "name": "Desarrollo Agile en GCP",
+          "description": "Charla sobre desarrollo Agile en el entorno de GCP. Uso de un proyecto tipo en Google App Engine hecho con Python y Flask. \n\nSe tocan pruebas unitarias, funcionales, desarrollo iterativo, Integración y Despliegue Continuo en modo taller.",
+          "image": {
+            "alt": "Captura de Pantalla 2022-03-28 a las 14.54.02.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/92081b5b-82fe-42d8-8b8c-3d89cb182722_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Extreme Programming"
+        ]
       }
     ]
   },
