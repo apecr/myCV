@@ -37,6 +37,21 @@
         "topic": "Aficiones",
         "fact": "* Ajedrez\n* Fútbol"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Hackerrank",
+        "type": "other",
+        "URL": "https://www.hackerrank.com/dashboard",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      }
     ]
   },
   "experience": {
