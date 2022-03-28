@@ -141,6 +141,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Everis Spain",
+          "image": {
+            "alt": "everis.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/e2c18afd-3bd1-4671-874f-87d118de461d_everis.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista JAVA",
+            "startDate": "2013-07-01",
+            "finishDate": "2012-03-01",
+            "challenges": [
+              {
+                "description": "Analista técnico del proyecto “Portal de Mediadores Fase III” para la empresa Sanitas. Arquitectura SOA con Stripes+Spring+Mybatis."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
