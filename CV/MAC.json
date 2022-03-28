@@ -51,6 +51,19 @@
           }
         ],
         "summary": ""
+      },
+      {
+        "title": "Gitlab de Alberto Eyo",
+        "type": "other",
+        "URL": "https://gitlab.com/apecr",
+        "authors": [
+          {
+            "name": "Alberto",
+            "surnames": "Eyo",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
       }
     ]
   },
