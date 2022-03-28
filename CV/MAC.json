@@ -71,6 +71,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Everis Spain",
+          "image": {
+            "alt": "everis.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4b910472-668f-447e-8c91-7f7862c3b667_everis.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador JAVA",
+            "startDate": "2012-02-01",
+            "finishDate": "2009-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollos y mantenimientos de portales web de Sanitas. Conocimientos técnicos: stripes, mybatis, jstl, servlets, web services, spring"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Servlet",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
