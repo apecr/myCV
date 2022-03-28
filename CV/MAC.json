@@ -235,6 +235,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Sopra Steria",
+          "image": {
+            "alt": "sopra.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f2b5180-2a24-4e0e-8a2b-85967eb45758_sopra.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto Java",
+            "startDate": "2016-02-01",
+            "finishDate": "2014-03-01",
+            "challenges": [
+              {
+                "description": "Proyecto: Mantenimiento de Arquitectura\nCliente: ING Direct\n\nResponsabilidades:\n- Arquitectura del Software\n- Análisis, Diseño y Optimización de los sistemas\n- Desarrollo Software\n- Integración Continua y Pruebas Software\n- Documentación\n- Mejora Continua\n- Troubleshooting\n\nTrabajo con metodologías ágiles (Kanban)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
