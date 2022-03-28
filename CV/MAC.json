@@ -274,6 +274,72 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Sngular Spain",
+          "image": {
+            "alt": "sngular.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea964d35-6bd3-4b3a-ba50-38c30f3360ab_sngular.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de software",
+            "startDate": "2014-03-01",
+            "challenges": [
+              {
+                "description": "Ingeniero Software en Sngular.\nDesarrollo de aplicaciones sobre la plataforma Cloud de Google con Python.\nDesarrollo de la arquitectura de la Plataform Google Cloud.\nDesarrollo de software para Integración Continua y Continuous Deployment en Node.js."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
