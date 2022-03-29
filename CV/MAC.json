@@ -1138,6 +1138,31 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción práctica a Node.js",
+        "startDate": "2016-11-01",
+        "finishDate": "2016-11-01",
+        "institution": {
+          "name": "DevAcademy",
+          "description": "",
+          "image": {
+            "alt": "devacademy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/bedba145-33d4-4c5f-83e7-0be65f8f6950_devacademy.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
