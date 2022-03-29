@@ -850,6 +850,44 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "The Modern GraphQL Bootcamp (with Node.js and Apollo)",
+        "startDate": "2020-03-01",
+        "finishDate": "2015-03-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-620a4dd5-ad83-415f-9daf-24302ac13f7b/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/045533bb-b62d-4c1a-9de4-ec06f0d2a03e_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "Apollo",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
