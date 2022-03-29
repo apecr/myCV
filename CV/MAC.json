@@ -712,6 +712,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Advanced REST APIs with Flask and Python",
+        "startDate": "2020-06-01",
+        "finishDate": "2020-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-39700538-f77f-447f-bead-408d97821e63/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/d64a275b-c83b-4da9-b9e6-b958867f169c_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
