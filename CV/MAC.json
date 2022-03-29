@@ -1052,6 +1052,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Automated Software Testing with Python",
+        "startDate": "2018-03-01",
+        "finishDate": "2018-03-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-J1N03BLC/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/4aeddc7a-faad-421a-bb8a-88ea07b6ed50_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
