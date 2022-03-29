@@ -588,6 +588,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "The Complete React Developer Course (w/ Hooks and Redux)",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "The Complete React Developer Course (w/ Hooks and Redux)",
+          "URL": "https://www.udemy.com/certificate/UC-d0d96421-0741-42e4-9268-24d461cdddb9/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/1d226007-383b-460b-a722-cd52bcbf27cc_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
