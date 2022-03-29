@@ -1022,6 +1022,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "REST APIs with Flask and Python",
+        "startDate": "2018-04-01",
+        "finishDate": "2018-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-MXDY4LBP/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/fd65144f-6295-41c9-b90a-9d504286db94_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
