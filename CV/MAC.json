@@ -36,6 +36,10 @@
       {
         "topic": "Aficiones",
         "fact": "* Ajedrez\n* Fútbol"
+      },
+      {
+        "topic": "Puntuación internacional de jugadore de ajedrez",
+        "fact": "2178 en el momento de rellenar esto:\nhttps://ratings.fide.com/profile/2256495"
       }
     ],
     "recommendations": [
