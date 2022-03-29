@@ -555,6 +555,39 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "JavaScript + Node.js + Express + MongoDB COMPLETO",
+        "startDate": "2017-01-01",
+        "finishDate": "2017-01-01",
+        "institution": {
+          "name": "KeepCoding",
+          "description": "JavaScript + Node.js + Express + MongoDB COMPLETO",
+          "image": {
+            "alt": "keepcoding.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/74dc79de-dd9e-4049-bd07-340bacf4f9db_keepcoding.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
