@@ -742,6 +742,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "TDD en NodeJS, guía de tests con Jest",
+        "startDate": "2020-06-01",
+        "finishDate": "2020-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-392be329-bd3e-4637-97ec-bfc4f0cd032b/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/0d20f540-8d3a-4b8a-af0c-ef4d0d48ec6f_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
