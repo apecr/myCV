@@ -944,6 +944,36 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Serverless Data Analysis with Google BigQuery and Cloud Dataflow",
+        "startDate": "2018-08-01",
+        "finishDate": "2018-08-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "",
+          "URL": "https://www.coursera.org/account/accomplishments/verify/CEH9SR4TDQZC",
+          "image": {
+            "alt": "coursera.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/3b353e8d-c08a-452e-9e43-94659687134b_coursera.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "BigQuery",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
