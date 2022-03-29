@@ -1163,6 +1163,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Javascript Avanzado",
+        "startDate": "2017-05-01",
+        "finishDate": "2017-05-01",
+        "institution": {
+          "name": "Redradix",
+          "description": "",
+          "image": {
+            "alt": "Captura de Pantalla 2022-03-29 a las 13.17.35.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/7d6cd755-a640-439c-9979-20910825585e_captura-de-pantalla-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
