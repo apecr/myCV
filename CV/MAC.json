@@ -660,6 +660,32 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Patrones de diseño en Javascript y Node.JS",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-123993ca-2e13-465c-a2f9-aa772531fea0/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/c47f4dd6-9540-4003-8aae-06c3fce8f7d0_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
