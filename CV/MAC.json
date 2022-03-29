@@ -1078,6 +1078,40 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "The Complete Node.js Developer Course (2nd Edition)",
+        "startDate": "2018-03-01",
+        "finishDate": "2018-03-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-KKC4FTAS/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/abd8a8ed-8e6c-451e-9713-e47489f2775f_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "Mocha",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
