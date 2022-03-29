@@ -824,6 +824,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Complete Python Web Course: Build 8 Python Web Apps",
+        "startDate": "2020-04-01",
+        "finishDate": "2020-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "http://udemy.com/certificate/UC-3ba92dfc-51d2-48fc-bfc4-844c3cbad4ae/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/c0181c00-f970-4c73-893b-4e98ba2a91a4_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
