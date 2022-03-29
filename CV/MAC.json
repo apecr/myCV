@@ -371,27 +371,6 @@
       },
       {
         "organization": {
-          "name": "Everis Spain",
-          "image": {
-            "alt": "planner.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/590f05ff-c03c-47eb-a4ab-bfcc28483fee_planner.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador JAVA",
-            "startDate": "2011-04-01",
-            "finishDate": "2012-03-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Aegon",
           "image": {
             "alt": "aegon.jpeg",
