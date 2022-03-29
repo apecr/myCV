@@ -852,9 +852,43 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Build Web Apps with Vue JS 2 & Firebase",
+        "startDate": "2018-12-01",
+        "finishDate": "2018-12-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-CENNTZ0R/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/49f0a855-7657-4cb3-9cb8-6d6b2a65c1ac_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "The Modern GraphQL Bootcamp (with Node.js and Apollo)",
         "startDate": "2020-03-01",
-        "finishDate": "2016-03-01",
+        "finishDate": "2020-03-01",
         "institution": {
           "name": "Udemy",
           "description": "",
@@ -883,40 +917,6 @@
           },
           {
             "name": "PostgreSQL",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Build Web Apps with Vue JS 2 & Firebase",
-        "startDate": "2018-12-01",
-        "finishDate": "2018-12-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "",
-          "URL": "https://www.udemy.com/certificate/UC-CENNTZ0R/",
-          "image": {
-            "alt": "udemy.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/49f0a855-7657-4cb3-9cb8-6d6b2a65c1ac_udemy.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Vue",
-            "type": "technology"
-          },
-          {
-            "name": "Firebase",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
             "type": "technology"
           }
         ]
