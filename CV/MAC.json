@@ -686,6 +686,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Agile Performance and Scalability",
+        "startDate": "2020-07-01",
+        "finishDate": "2020-07-01",
+        "institution": {
+          "name": "Koliseo",
+          "description": "",
+          "URL": "https://www.koliseo.com/alexfernandeznpm/curso-de-escalabilidad#/",
+          "image": {
+            "alt": "Captura de Pantalla 2022-03-29 a las 12.28.34.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/2e1fc65b-ec0f-493a-b645-3c32170375f5_captura-de-pantalla-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
