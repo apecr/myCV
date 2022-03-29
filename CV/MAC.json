@@ -790,6 +790,40 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Angular & NodeJS - The MEAN Stack Guide [2020 Edition]",
+        "startDate": "2020-04-01",
+        "finishDate": "2020-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-ac36f4a8-65c7-4d0b-9702-a9c8a5bee758/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/9e604cae-0ad3-4232-ae37-a4e8c9acb1b7_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
