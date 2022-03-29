@@ -736,32 +736,6 @@
           "URL": "https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/"
         }
       ]
-    },
-    "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "Google Cloud",
-          "type": "technology"
-        },
-        {
-          "name": "AWS",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      ]
     }
   }
 }
