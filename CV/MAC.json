@@ -368,33 +368,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Aegon",
-          "image": {
-            "alt": "aegon.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/da7672ba-b69e-452a-9c05-ffc5cc1fa9f0_aegon.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ejemplo",
-            "startDate": "2011-10-01",
-            "finishDate": "2020-03-01",
-            "challenges": [
-              {
-                "description": "Ejemplo"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Abap",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
