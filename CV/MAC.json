@@ -644,6 +644,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Hybrid Work Management: How to Manage a Hybrid Team",
+        "startDate": "2021-08-01",
+        "finishDate": "2018-08-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-1e264165-816f-4c99-9ca7-52e5444c15b6/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/f7927e4a-89da-43b2-9a09-e85c93408332_udemy.jpeg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería de Telecomunicaciones; Procesado de Señal",
