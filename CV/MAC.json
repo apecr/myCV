@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,20 +9,19 @@
       "name": "Alberto Pelayo",
       "surnames": "Eyo Castro-Rial",
       "title": "Ingeniero de Software en Sngular Spain",
-      "description": "Soy un apasionado de la tecnología. Me encanta programar en diferentes lenguajes (sobre todo en Node.js siedo lo más Functional posible además). Trabajo como Ingeniero de Software en Sngular en un departamento de Google Cloud Platform para BBVA. Entre mis valores están todos aquellos derivados del respeto, la solidaridad y el generar valor en todo aquello que me involucre. Desde mi trabajo (Kent Beck me ayuda mucho con esto) a mi vida personal. Es importante que las dos cosas estén balanceadas y que me sienta cómodo siendo yo mismo trabajando. Tengo una hija y una mujer excepcionales, soy de Pontevedra, teletrabajo más feliz que una perdiz pero soy el que más hecha de menos el café de la oficina o la sobremesa del día que comíamos fuera. Ojalá eso quede cerquita ya de repetirse",
+      "description": "",
       "avatar": {
         "alt": "avatar-aeyo.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16eb980e-2bbd-4441-8cba-3f2278761bf8_avatar-aeyo.jpeg"
       },
       "location": {
-        "notes": "Pontevedra, España"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Pontevedra",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/"
-      },
       {
         "type": "github",
         "URL": "https://github.com/apecr"
@@ -30,6 +29,10 @@
       {
         "type": "other",
         "URL": "https://gitlab.com/apecr"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/"
       }
     ],
     "interestingFacts": [
@@ -44,19 +47,6 @@
     ],
     "recommendations": [
       {
-        "title": "Hackerrank",
-        "type": "other",
-        "URL": "https://www.hackerrank.com/dashboard",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
-        "summary": ""
-      },
-      {
         "title": "Gitlab de Alberto Eyo",
         "type": "other",
         "URL": "https://gitlab.com/apecr",
@@ -68,6 +58,19 @@
           }
         ],
         "summary": ""
+      },
+      {
+        "title": "Hackerrank",
+        "type": "other",
+        "URL": "https://www.hackerrank.com/dashboard",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
       }
     ]
   },
@@ -75,29 +78,197 @@
     "jobs": [
       {
         "organization": {
-          "name": "Everis Spain",
+          "name": "Sngular Spain",
           "image": {
-            "alt": "everis.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/7f31f1d9-5595-4475-b99c-55ca5e4f72d2_everis.jpeg"
+            "alt": "sngular.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea964d35-6bd3-4b3a-ba50-38c30f3360ab_sngular.jpeg"
           }
         },
         "roles": [
           {
-            "name": "Programador .NET",
-            "startDate": "2011-10-01",
-            "finishDate": "2012-02-01",
+            "name": "Ingeniero de software",
+            "startDate": "2017-03-01",
             "challenges": [
               {
-                "description": "Desarrollo e implantación de un proceso de renovación de pólizas de seguros a través de herramientas Microsoft (Biz Talk, WCF, desarrollo .NET) en el proyecto PES REALE Seguros Generales"
+                "description": "Ingeniero Software en Sngular.\nDesarrollo de aplicaciones sobre la plataforma Cloud de Google con Python.\nDesarrollo de la arquitectura de la Plataform Google Cloud.\nDesarrollo de software para Integración Continua y Continuous Deployment en Node.js."
               }
             ],
             "competences": [
               {
-                "name": ".NET",
+                "name": "Firebase",
                 "type": "technology"
               },
               {
-                "name": "BizTalk",
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sopra Steria",
+          "image": {
+            "alt": "sopra.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f2b5180-2a24-4e0e-8a2b-85967eb45758_sopra.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto Java",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-03-01",
+            "challenges": [
+              {
+                "description": "Proyecto: Mantenimiento de Arquitectura\nCliente: ING Direct\n\nResponsabilidades:\n- Arquitectura del Software\n- Análisis, Diseño y Optimización de los sistemas\n- Desarrollo Software\n- Integración Continua y Pruebas Software\n- Documentación\n- Mejora Continua\n- Troubleshooting\n\nTrabajo con metodologías ágiles (Kanban)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aegon",
+          "image": {
+            "alt": "aegon.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/2619b54a-f846-42d7-96d1-2affe2e8c9a8_aegon.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Arquitecto Junior Java",
+            "startDate": "2014-03-01",
+            "finishDate": "2016-02-01",
+            "challenges": [
+              {
+                "description": "Arquitecto Junior en el departamento de QA (Quality and Architecture) de la empresa Aegon. Responsable de la arquitectura Java de la compañía, de la implantación de Integración Continua (administrador de Jenkins 1.594, Nexus y Sonarqube 4.5.1), del manejo del Oracle Service Bus de cara a implantar la arquitectura SOA y de las migraciones a maven de todos los proyectos Java. Responsable de la arquitectura de los portales Java desarrollador para Liferay. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Nexus",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SOA",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Everis Spain",
+          "image": {
+            "alt": "everis.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/e2c18afd-3bd1-4671-874f-87d118de461d_everis.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista JAVA",
+            "startDate": "2013-07-01",
+            "finishDate": "2014-03-01",
+            "challenges": [
+              {
+                "description": "Analista técnico del proyecto “Portal de Mediadores Fase III” para la empresa Sanitas. Arquitectura SOA con Stripes+Spring+Mybatis."
+              }
+            ],
+            "competences": [
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
                 "type": "technology"
               }
             ]
@@ -155,19 +326,19 @@
             ],
             "competences": [
               {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
                 "name": "MyBatis",
                 "type": "technology"
               },
               {
-                "name": "Stripe",
+                "name": "Servlet",
                 "type": "technology"
               },
               {
-                "name": "Servlet",
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
                 "type": "technology"
               }
             ]
@@ -179,194 +350,26 @@
           "name": "Everis Spain",
           "image": {
             "alt": "everis.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/e2c18afd-3bd1-4671-874f-87d118de461d_everis.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/7f31f1d9-5595-4475-b99c-55ca5e4f72d2_everis.jpeg"
           }
         },
         "roles": [
           {
-            "name": "Analista JAVA",
-            "startDate": "2013-07-01",
-            "finishDate": "2014-03-01",
+            "name": "Programador .NET",
+            "startDate": "2011-10-01",
+            "finishDate": "2012-02-01",
             "challenges": [
               {
-                "description": "Analista técnico del proyecto “Portal de Mediadores Fase III” para la empresa Sanitas. Arquitectura SOA con Stripes+Spring+Mybatis."
+                "description": "Desarrollo e implantación de un proceso de renovación de pólizas de seguros a través de herramientas Microsoft (Biz Talk, WCF, desarrollo .NET) en el proyecto PES REALE Seguros Generales"
               }
             ],
             "competences": [
               {
-                "name": "Spring",
+                "name": ".NET",
                 "type": "technology"
               },
               {
-                "name": "MyBatis",
-                "type": "technology"
-              },
-              {
-                "name": "Stripe",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Aegon",
-          "image": {
-            "alt": "aegon.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/2619b54a-f846-42d7-96d1-2affe2e8c9a8_aegon.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Arquitecto Junior Java",
-            "startDate": "2014-03-01",
-            "finishDate": "2016-02-01",
-            "challenges": [
-              {
-                "description": "Arquitecto Junior en el departamento de QA (Quality and Architecture) de la empresa Aegon. Responsable de la arquitectura Java de la compañía, de la implantación de Integración Continua (administrador de Jenkins 1.594, Nexus y Sonarqube 4.5.1), del manejo del Oracle Service Bus de cara a implantar la arquitectura SOA y de las migraciones a maven de todos los proyectos Java. Responsable de la arquitectura de los portales Java desarrollador para Liferay. "
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Maven",
-                "type": "technology"
-              },
-              {
-                "name": "Nexus",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "SOA",
-                "type": "technology"
-              },
-              {
-                "name": "LifeRay",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sopra Steria",
-          "image": {
-            "alt": "sopra.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/6f2b5180-2a24-4e0e-8a2b-85967eb45758_sopra.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Arquitecto Java",
-            "startDate": "2016-02-01",
-            "finishDate": "2017-03-01",
-            "challenges": [
-              {
-                "description": "Proyecto: Mantenimiento de Arquitectura\nCliente: ING Direct\n\nResponsabilidades:\n- Arquitectura del Software\n- Análisis, Diseño y Optimización de los sistemas\n- Desarrollo Software\n- Integración Continua y Pruebas Software\n- Documentación\n- Mejora Continua\n- Troubleshooting\n\nTrabajo con metodologías ágiles (Kanban)"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "MyBatis",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sngular Spain",
-          "image": {
-            "alt": "sngular.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea964d35-6bd3-4b3a-ba50-38c30f3360ab_sngular.jpeg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de software",
-            "startDate": "2017-03-01",
-            "challenges": [
-              {
-                "description": "Ingeniero Software en Sngular.\nDesarrollo de aplicaciones sobre la plataforma Cloud de Google con Python.\nDesarrollo de la arquitectura de la Plataform Google Cloud.\nDesarrollo de software para Integración Continua y Continuous Deployment en Node.js."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "Flask",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "JUnit",
-                "type": "technology"
-              },
-              {
-                "name": "Google Apps Script",
+                "name": "BizTalk",
                 "type": "technology"
               }
             ]
@@ -375,6 +378,35 @@
       }
     ],
     "publicArtifacts": [
+      {
+        "details": {
+          "name": "Desarrollo Agile en GCP",
+          "description": "Charla sobre desarrollo Agile en el entorno de GCP. Uso de un proyecto tipo en Google App Engine hecho con Python y Flask. \n\nSe tocan pruebas unitarias, funcionales, desarrollo iterativo, Integración y Despliegue Continuo en modo taller.",
+          "image": {
+            "alt": "Captura de Pantalla 2022-03-28 a las 14.54.02.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/92081b5b-82fe-42d8-8b8c-3d89cb182722_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Extreme Programming"
+        ]
+      },
       {
         "details": {
           "name": "Clean Architecture y TDD en Javascript",
@@ -392,45 +424,16 @@
             "type": "technology"
           },
           {
-            "name": "NodeJS",
+            "name": "Mocha",
             "type": "technology"
           },
           {
-            "name": "Mocha",
+            "name": "NodeJS",
             "type": "technology"
           }
         ],
         "tags": [
           "Clean Code"
-        ]
-      },
-      {
-        "details": {
-          "name": "Desarrollo Agile en GCP",
-          "description": "Charla sobre desarrollo Agile en el entorno de GCP. Uso de un proyecto tipo en Google App Engine hecho con Python y Flask. \n\nSe tocan pruebas unitarias, funcionales, desarrollo iterativo, Integración y Despliegue Continuo en modo taller.",
-          "image": {
-            "alt": "Captura de Pantalla 2022-03-28 a las 14.54.02.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/92081b5b-82fe-42d8-8b8c-3d89cb182722_captura-de-pantalla-.png"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2022-02-01",
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Flask",
-            "type": "technology"
-          },
-          {
-            "name": "Google Cloud",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "Extreme Programming"
         ]
       }
     ]
@@ -438,22 +441,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "JAVA",
@@ -462,37 +462,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -504,19 +474,25 @@
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Firebase",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Boot",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -534,13 +510,13 @@
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "mongoose",
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -552,45 +528,42 @@
       },
       {
         "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cloud Firestore",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       }
     ],
     "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "JavaScript + Node.js + Express + MongoDB COMPLETO",
-        "startDate": "2017-01-01",
-        "finishDate": "2017-01-01",
-        "institution": {
-          "name": "KeepCoding",
-          "description": "JavaScript + Node.js + Express + MongoDB COMPLETO",
-          "image": {
-            "alt": "keepcoding.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/74dc79de-dd9e-4049-bd07-340bacf4f9db_keepcoding.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
       {
         "studyType": "certification",
         "degreeAchieved": true,
@@ -608,11 +581,11 @@
         },
         "linkedCompetences": [
           {
-            "name": "React",
+            "name": "Jest",
             "type": "technology"
           },
           {
-            "name": "Jest",
+            "name": "React",
             "type": "technology"
           }
         ]
@@ -634,15 +607,15 @@
         },
         "linkedCompetences": [
           {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
             "name": "Google Cloud",
             "type": "technology"
           },
           {
             "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
             "type": "technology"
           }
         ]
@@ -732,15 +705,15 @@
         },
         "linkedCompetences": [
           {
-            "name": "REST",
-            "type": "technology"
-          },
-          {
             "name": "Flask",
             "type": "technology"
           },
           {
             "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
             "type": "technology"
           }
         ]
@@ -814,7 +787,7 @@
             "type": "technology"
           },
           {
-            "name": "NodeJS",
+            "name": "Express",
             "type": "technology"
           },
           {
@@ -822,7 +795,7 @@
             "type": "technology"
           },
           {
-            "name": "Express",
+            "name": "NodeJS",
             "type": "technology"
           }
         ]
@@ -856,25 +829,37 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Microservices with Spring Cloud",
-        "startDate": "2018-06-01",
-        "finishDate": "2018-06-01",
+        "name": "The Modern GraphQL Bootcamp (with Node.js and Apollo)",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
         "institution": {
           "name": "Udemy",
           "description": "",
-          "URL": "https://www.udemy.com/certificate/UC-KL70N0L4/",
+          "URL": "https://www.udemy.com/certificate/UC-620a4dd5-ad83-415f-9daf-24302ac13f7b/",
           "image": {
             "alt": "udemy.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/7cb0a45b-3a4f-4949-b85a-e89284e780a8_udemy.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/045533bb-b62d-4c1a-9de4-ec06f0d2a03e_udemy.jpeg"
           }
         },
         "linkedCompetences": [
           {
-            "name": "Spring Cloud",
+            "name": "Apollo",
             "type": "technology"
           },
           {
-            "name": "Spring Boot",
+            "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
             "type": "technology"
           }
         ]
@@ -896,57 +881,19 @@
         },
         "linkedCompetences": [
           {
-            "name": "Vue",
-            "type": "technology"
-          },
-          {
             "name": "Firebase",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
             "type": "technology"
           },
           {
             "name": "JavaScript",
             "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "The Modern GraphQL Bootcamp (with Node.js and Apollo)",
-        "startDate": "2020-03-01",
-        "finishDate": "2020-03-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "",
-          "URL": "https://www.udemy.com/certificate/UC-620a4dd5-ad83-415f-9daf-24302ac13f7b/",
-          "image": {
-            "alt": "udemy.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/045533bb-b62d-4c1a-9de4-ec06f0d2a03e_udemy.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "GraphQL",
-            "type": "technology"
           },
           {
             "name": "NodeJS",
             "type": "technology"
           },
           {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "Apollo",
-            "type": "technology"
-          },
-          {
-            "name": "PostgreSQL",
+            "name": "Vue",
             "type": "technology"
           }
         ]
@@ -999,6 +946,32 @@
           },
           {
             "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microservices with Spring Cloud",
+        "startDate": "2018-06-01",
+        "finishDate": "2018-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-KL70N0L4/",
+          "image": {
+            "alt": "udemy.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/7cb0a45b-3a4f-4949-b85a-e89284e780a8_udemy.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Cloud",
             "type": "technology"
           }
         ]
@@ -1072,11 +1045,11 @@
         },
         "linkedCompetences": [
           {
-            "name": "Python",
+            "name": "Postman",
             "type": "technology"
           },
           {
-            "name": "Postman",
+            "name": "Python",
             "type": "technology"
           }
         ]
@@ -1098,7 +1071,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "NodeJS",
+            "name": "Mocha",
             "type": "technology"
           },
           {
@@ -1106,11 +1079,11 @@
             "type": "technology"
           },
           {
-            "name": "mongoose",
+            "name": "Mongoose",
             "type": "technology"
           },
           {
-            "name": "Mocha",
+            "name": "NodeJS",
             "type": "technology"
           }
         ]
@@ -1140,31 +1113,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Introducción práctica a Node.js",
-        "startDate": "2016-11-01",
-        "finishDate": "2016-11-01",
-        "institution": {
-          "name": "DevAcademy",
-          "description": "",
-          "image": {
-            "alt": "devacademy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/bedba145-33d4-4c5f-83e7-0be65f8f6950_devacademy.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "Express",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Javascript Avanzado",
         "startDate": "2017-05-01",
         "finishDate": "2017-05-01",
@@ -1179,6 +1127,64 @@
         "linkedCompetences": [
           {
             "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "JavaScript + Node.js + Express + MongoDB COMPLETO",
+        "startDate": "2017-01-01",
+        "finishDate": "2017-01-01",
+        "institution": {
+          "name": "KeepCoding",
+          "description": "JavaScript + Node.js + Express + MongoDB COMPLETO",
+          "image": {
+            "alt": "keepcoding.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/74dc79de-dd9e-4049-bd07-340bacf4f9db_keepcoding.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción práctica a Node.js",
+        "startDate": "2016-11-01",
+        "finishDate": "2016-11-01",
+        "institution": {
+          "name": "DevAcademy",
+          "description": "",
+          "image": {
+            "alt": "devacademy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/bedba145-33d4-4c5f-83e7-0be65f8f6950_devacademy.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
             "type": "technology"
           }
         ]
@@ -1212,11 +1218,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
+          "name": "AWS",
           "type": "technology"
         },
         {
@@ -1224,7 +1226,11 @@
           "type": "technology"
         },
         {
-          "name": "AWS",
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
           "type": "technology"
         }
       ],
@@ -1233,7 +1239,11 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
